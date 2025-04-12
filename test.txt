@@ -1,2 +1,2 @@
 WHITELIST
-  Halothane1
+  PirateGuacamole
