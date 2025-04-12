@@ -1,1 +1,2 @@
-PirateGuacamole
+WHITELIST: |
+  PirateGuacamole
